@@ -1,13 +1,13 @@
 {
   "main.css": "/week2-assignment/static/css/main.f2d9c6f9.chunk.css",
-  "main.js": "/week2-assignment/static/js/main.d38e59f9.chunk.js",
-  "main.js.map": "/week2-assignment/static/js/main.d38e59f9.chunk.js.map",
+  "main.js": "/week2-assignment/static/js/main.1fdc1296.chunk.js",
+  "main.js.map": "/week2-assignment/static/js/main.1fdc1296.chunk.js.map",
   "runtime~main.js": "/week2-assignment/static/js/runtime~main.eff5486d.js",
   "runtime~main.js.map": "/week2-assignment/static/js/runtime~main.eff5486d.js.map",
-  "static/js/2.179f4c70.chunk.js": "/week2-assignment/static/js/2.179f4c70.chunk.js",
-  "static/js/2.179f4c70.chunk.js.map": "/week2-assignment/static/js/2.179f4c70.chunk.js.map",
+  "static/js/2.0ebe9ae7.chunk.js": "/week2-assignment/static/js/2.0ebe9ae7.chunk.js",
+  "static/js/2.0ebe9ae7.chunk.js.map": "/week2-assignment/static/js/2.0ebe9ae7.chunk.js.map",
   "index.html": "/week2-assignment/index.html",
-  "precache-manifest.d90149e80d064f18d55333332e5611eb.js": "/week2-assignment/precache-manifest.d90149e80d064f18d55333332e5611eb.js",
+  "precache-manifest.a6f000b27830e6d55cd968d7ef755ac3.js": "/week2-assignment/precache-manifest.a6f000b27830e6d55cd968d7ef755ac3.js",
   "service-worker.js": "/week2-assignment/service-worker.js",
   "static/css/main.f2d9c6f9.chunk.css.map": "/week2-assignment/static/css/main.f2d9c6f9.chunk.css.map"
 }
